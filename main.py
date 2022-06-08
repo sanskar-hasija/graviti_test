@@ -6,4 +6,4 @@ def install(package):
 install("pandas")
 
 import pandas 
-print("test")
+print(test)
